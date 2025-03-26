@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nikhil-nishad&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-nishad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔥 Total Lifetime Commits:
+![](https://github-readme-stats.vercel.app/api?username=nikhil-nishad&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Total%20Commits)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
