@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil-nishad&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-nishad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-### 🔥 Total Lifetime Contributions:
-![](https://github-contributor-stats.vercel.app/api?username=nikhil-nishad)
-
 ### 🔥 Total Lifetime Commits:
 ![](https://github-readme-stats.vercel.app/api?username=nikhil-nishad&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Total%20Commits)
 
