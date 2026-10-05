@@ -1,24 +1,144 @@
-# 💫 About Me:
-👋 Hi, I'm Nikhil Nishad! 🚀<br>🔭 I’m currently working on building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and exploring full-stack development.<br><br>👯 I’m looking to collaborate on exciting open-source projects, web applications, and front-end development challenges that enhance user experience and performance.<br><br>🤝 I’m looking for help with improving my backend architecture, database optimization, and best practices in full-stack development.<br><br>🌱 I’m currently learning advanced React.js concepts, Next.js, Express.js, MongoDB, and cloud deployment (AWS, Vercel) to build high-performance applications.<br><br>💬 Ask me about React.js, JavaScript, PHP, Laravel, UI/UX design, SEO, and web performance optimization—I love discussing anything related to web development!<br><br>⚡ Fun fact: I started my journey in tech as a social media marketing intern at an NGO before diving deep into web development. I enjoy exploring new technologies, debugging complex issues, and continuously learning.<br><br>📫 Let’s Connect:<br><p><br>  | <a href="https://www.linkedin.com/in/nikhilnishad/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |<br><br><a href='https://ko-fi.com/W7W71OA4ID' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br><br>
+<div align="center">
 
+# 🎮 PLAYER 1: NIKHIL NISHAD
+### ⚔️ AI-Enabled Full-Stack Engineer & Automation Artificer ⚔️
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishad_nikhil_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilnishad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20668563/nikhil-nishad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilnishad1801@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Level+Up%3A+AI+Full-Stack+Engineer;Next.js+15+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Agents+%E2%80%A2+Supabase;Automating+80%2C000%2B+Production+Docs%2FMonth;Turning+Coffee+%E2%98%95+into+Resilient+Code+%26+Agents)](https://git.io/typing-svg)
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhil-nishad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nikhil-nishad&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-nishad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/nikhilnishad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nikhil-nishad-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nikhilnishad1801@gmail.com"><img src="https://img.shields.io/badge/Direct_Ping-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/20668563/nikhil-nishad"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikhil-nishad&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+### 🧙‍♂️ Character Sheet & Lore
+
+```yaml
+Player       : Nikhil Nishad
+Class        : AI-Enabled Full-Stack Engineer & Automation Specialist
+Current Guild: Associate Software Engineer @ Venture7 Technology
+Base Camp    : Delhi NCR / Faridabad, India
+Mana Engine  : Coffee & Clean Abstractions ☕
+Passive Skill: [Document Whisperer] Tames 80,000+ invoices/month across 100+ vendor formats
+Special Move : [Agentic Cascade] Spawns autonomous LLM workflows to obliterate manual toil
+Lore         : Started in digital marketing at an NGO before realizing I liked coding 
+               the engines 100x more than writing marketing copy. Now engineering 
+               production document AI pipelines & full-stack web applications.
+```
+
+---
+
+### 🏆 Achievements Unlocked & Boss Raids
+
+- 🥇 **Title: Ideathon Champion** — *1st Prize Winner, Inter-University Ideathon 2024*
+- 📜 **Perk: Research Scholar** — Published author of *"Hyper-Personalization using AI: Elevate Fitness"* (presented at IEEE-recognized ETESM-2025 conference)
+- ⚡ **Raid Boss: The 80K Invoices Pipeline** — Architected enterprise Document AI & EDI pipelines scaling to ~80,000 invoices/month across 100+ vendor formats at Venture7 (Nanonets OCR, Python post-processing, Salesforce / Business Central ERP)
+- 🎓 **Guild Badge: Master of Computer Applications (MCA)** — J.C. Bose UST, YMCA (8.1 CGPA)
+- 📜 **Certification: MongoDB Certified Developer Associate (C100DEV)**
+
+---
+
+### 🗡️ Legendary Artifacts & Inventory (Featured Quests)
+
+| Quest / Artifact | Class & Stack | Mission Objective |
+| :--- | :--- | :--- |
+| 🏋️ **[Elevate Fitness](https://github.com/Nikhil-Nishad)** | `Next.js 15` `React 19` `Supabase` `Groq LLM` `Tailwind` | AI-driven adaptive fitness & nutrition platform with hyper-personalized workout engines. Powered research presented at ETESM-2025. |
+| 🛡️ **[Lallam-Build-Summarizer](https://github.com/Nikhil-Nishad/Lallam-Build-Summarizer)** | `Python` `LangChain` `Groq AI` `Rich CLI` | Autonomous DevOps agent that diagnoses cryptic CI/CD build failures and outputs root-cause fixes in seconds. |
+| 🔍 **[NanoPro Validator](https://github.com/Nikhil-Nishad/NanoPro_Validator)** | `Manifest V3` `JavaScript` `Python` `DOM Observer` | Chrome extension automating table validation, schema normalization, and OCR error-checking for enterprise invoice processing. |
+| 👁️ **[DocuVision](https://github.com/Nikhil-Nishad/DocuVision)** | `Python` `Streamlit` `OpenCV` `Tesseract OCR` | Document text extraction engine designed for high-precision table reconstruction and PDF data parsing. |
+| ⚡ **[Upload Link Generator](https://github.com/Nikhil-Nishad/Upload_Link_Generator)** | `Node.js` `Express` `GitHub Octokit` `jsDelivr` | Automated asset pipeline generating instant CDN-backed distribution links for n8n automation workflows. |
+
+---
+
+### 🔮 Skill Tree & Spellbook
+
+<details open>
+<summary><b>🧠 Applied AI, Agents & Automation</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Speed-F55036?style=flat-square&logo=speedtest&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Document AI](https://img.shields.io/badge/Document_AI_%26_OCR-009688?style=flat-square&logo=googlecloud&logoColor=white)
+![RAG & Prompts](https://img.shields.io/badge/RAG_%26_Prompt_Engineering-6366F1?style=flat-square&logo=hyperskill&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚔️ Frontend Architecture</b></summary>
+<br>
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=redux&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛡️ Backend & Microservices</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python_3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎒 Databases, DevOps & Cloud</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</details>
+
+---
+
+### 📊 Quest Log & Battle Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikhil-nishad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Nikhil's GitHub Stats" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nikhil-nishad&theme=tokyonight&hide_border=true" alt="Nikhil's GitHub Streak" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-nishad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Nikhil's Top Languages" width="60%" />
+
+</div>
+
+---
+
+### 🤝 Join Party / Start a Co-op Quest
+
+Got an exciting AI product, high-scale engineering problem, or open-source raid? Let’s team up:
+
+- 💬 **LinkedIn:** [linkedin.com/in/nikhilnishad](https://linkedin.com/in/nikhilnishad)
+- 🌐 **Portfolio:** [nikhil-nishad-portfolio.netlify.app](https://nikhil-nishad-portfolio.netlify.app/)
+- 📬 **Email:** [nikhilnishad1801@gmail.com](mailto:nikhilnishad1801@gmail.com)
+- ☕ *Always down to chat about LLM agents, Document AI pipelines, or the best dark themes in existence.*
+
+<!--
+SEO Keyword Cluster:
+AI Engineer, Full Stack Engineer, Next.js 15, React 19, Python, FastAPI, Supabase, PostgreSQL, LangChain, n8n, Document AI, OCR Automation, TypeScript, Nanonets, Venture7, Nikhil Nishad GitHub Profile
+-->
