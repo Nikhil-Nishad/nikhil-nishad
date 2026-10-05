@@ -22,7 +22,7 @@
       <h3>👨‍💻 About Me</h3>
       <p>I build enterprise-grade full-stack applications, intelligent agent workflows, and production AI document automation pipelines that turn unstructured data into high-throughput business value.</p>
       <ul>
-        <li>💼 <b>Current Role:</b> Associate Software Engineer at <b>Venture7 Technology</b></li>
+        <li>💼 <b>Current Role:</b> Software Engineer at <b>Venture7 Technology</b></li>
         <li>⚡ <b>Core Stack:</b> Next.js 15, React 19, Python / FastAPI, Supabase & LLM Orchestration</li>
         <li>📈 <b>Production Scale:</b> Architected Document AI pipelines designed for <b>~80,000 invoices/month</b> across 100+ vendor layouts</li>
         <li>🏆 <b>Ideathon Winner:</b> 1st Prize — Inter-University Ideathon 2024</li>
